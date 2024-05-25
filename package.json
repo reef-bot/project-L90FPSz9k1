@@ -1,0 +1,12 @@
+{
+  "name": "discord-bot-project",
+  "version": "1.0.0",
+  "description": "Discord bot project",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^13.1.0"
+  }
+}
